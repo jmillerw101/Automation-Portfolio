@@ -118,17 +118,6 @@ Have an idea, bug, or enhancement? Open an issue or PR with a clear description,
 
 ***
 
-### Badges (optional)
-
-
-```md
-https://img.shields.io/badge/Python-3.10+-blue
-https://img.shields.io/badge/Jupyter-Notebook-orange
-https://img.shields.io/badge/Status-Active-brightgreen
-```
-
-***
-
 ## Notes for reviewers
 
 *   This repository currently contains two Jupyter notebooks and a README; no external datasets are included. [\[github.com\]](https://github.com/jmillerw101/Automation-Portfolio)
