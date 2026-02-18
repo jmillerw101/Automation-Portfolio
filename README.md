@@ -40,12 +40,6 @@ As a Quality Technician moving toward advanced Quality/Automation, I build small
 3.  Open the notebook and run all cells.
 4.  (Optional) Export outputs to CSV for dashboards.
 
-**Potential extensions**
-
-*   Add retry/backoff & error logging.
-*   Parameterize tickers via `.env` or YAML.
-*   Persist to SQLite/Postgres; wire up a Power BI/Excel refresh.
-
 ***
 
 ### 2) Automatic File Sorter
